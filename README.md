@@ -1,5 +1,5 @@
-# AIMS-student-speech-emotion-recognition
-# Speech Emotion Recognition using CNN
+# AIMS-student-speech-emotion-recognition using CNN
+
 
 ## Overview
 This project focuses on Speech Emotion Recognition (SER) using a Convolutional Neural Network (CNN). The model is trained on a dataset collected at the African Institute for Mathematical Sciences (AIMS) during the 2024-2025 academic year. The dataset contains speech recordings labeled with three emotions: **happy, sad, and neutral**. The goal is to classify speech samples into these categories based on extracted audio features.
